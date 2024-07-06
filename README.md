@@ -1,0 +1,2 @@
+- If you are new to excel VBA, please use the hot key: "Alt + F11" to access the code of this project.
+- As this is the project for the SME business in Thailand, most of the string data is stored in Thai also the user interfaces. You can reach me out if you have questions regarding how the database work, I'm happy to explain it to you :)
